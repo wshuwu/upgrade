@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/icon">
+        <file>imgs/udisk.png</file>
+    </qresource>
+    <qresource prefix="/qss">
+        <file>qss/blue.qss</file>
+    </qresource>
+</RCC>
